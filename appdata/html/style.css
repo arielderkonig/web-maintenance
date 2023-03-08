@@ -6,5 +6,8 @@ body {
     line-height: 30px;
     background-color:#fff;
 }
-.imgcenter {width:20%;
+.imgcenter {
+    margin: auto;
+    padding-top: 3%;
+    width: 320px;
 }
